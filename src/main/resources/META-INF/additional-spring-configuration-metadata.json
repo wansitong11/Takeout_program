@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "delivery.path",
+      "type": "java.lang.String",
+      "description": "Description for delivery.path."
+  }
+] }
